@@ -1,6 +1,8 @@
-# Howdy, Fellas
+# Hi, everyone!
 
-If you haven't already guessed it, I'm a fullstack web developer who mostly uses Javascript and its surrounding frameworks. Luckily for you though, almost all of my repositories are fully open source, so, if you find a project that interests you, check it out! And, if you find a bug in the code, just open an issue. 
+I'm a full-stack software engineer with a focus and specialization in web technologies. I mainly create applications using ASP.NET Core, Angular, and Blazor.
+
+Take a look around my repositories and [person website](https://wyatthardin.com) to see some of the projects and packages I have developed.
 
 
 
