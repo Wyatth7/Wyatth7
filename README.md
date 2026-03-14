@@ -2,7 +2,7 @@
 
 I'm a full-stack software engineer with a focus and specialization in web technologies. I mainly create applications using ASP.NET Core, Angular, and Blazor.
 
-Take a look around my repositories and [person website](https://wyatthardin.com) to see some of the projects and packages I have developed.
+Take a look around my repositories and [personal website](https://wyatthardin.com) to see some of the projects and packages I have developed.
 
 
 
